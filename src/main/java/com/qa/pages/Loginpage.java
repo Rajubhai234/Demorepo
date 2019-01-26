@@ -13,8 +13,14 @@ public class Loginpage {
 	}
 	
 	
+	public void login() {
+		
+		System.out.println("printf lloog");
+	}
 	
 
 
 
 }
+
+
